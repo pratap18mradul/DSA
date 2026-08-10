@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratap18mradul/DSA/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/pratap18mradul/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratap18mradul/DSA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratap18mradul/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pratap18mradul/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratap18mradul/DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratap18mradul/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pratap18mradul/DSA/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -79,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratap18mradul/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
