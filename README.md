@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratap18mradul/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pratap18mradul/DSA/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratap18mradul/DSA/tree/master/0015-3sum) |
 | [3731-find-missing-elements](https://github.com/pratap18mradul/DSA/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratap18mradul/DSA/tree/master/0015-3sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratap18mradul/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
