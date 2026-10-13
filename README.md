@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pratap18mradul/DSA/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/pratap18mradul/DSA/tree/master/1140-stone-game-ii) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratap18mradul/DSA/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pratap18mradul/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
