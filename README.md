@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pratap18mradul/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratap18mradul/DSA/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/pratap18mradul/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
