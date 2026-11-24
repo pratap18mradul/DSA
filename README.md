@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pratap18mradul/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pratap18mradul/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratap18mradul/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/pratap18mradul/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/pratap18mradul/DSA/tree/master/0039-combination-sum) |
 | [0486-predict-the-winner](https://github.com/pratap18mradul/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pratap18mradul/DSA/tree/master/0877-stone-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pratap18mradul/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratap18mradul/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/pratap18mradul/DSA/tree/master/0036-valid-sudoku) |
 | [3731-find-missing-elements](https://github.com/pratap18mradul/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratap18mradul/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/pratap18mradul/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
